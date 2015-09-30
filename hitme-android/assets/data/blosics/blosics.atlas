@@ -1,0 +1,505 @@
+
+blosics.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+bg
+  rotate: false
+  xy: 1, 538
+  size: 800, 480
+  orig: 800, 480
+  offset: 0, 0
+  index: -1
+rbg3
+  rotate: false
+  xy: 1, 286
+  size: 915, 250
+  orig: 915, 250
+  offset: 0, 0
+  index: -1
+rbg2
+  rotate: false
+  xy: 1, 79
+  size: 600, 205
+  orig: 600, 205
+  offset: 0, 0
+  index: -1
+dock
+  rotate: false
+  xy: 1, 45
+  size: 512, 32
+  orig: 512, 32
+  offset: 0, 0
+  index: -1
+platform
+  rotate: false
+  xy: 1, 5
+  size: 436, 38
+  orig: 436, 38
+  offset: 0, 0
+  index: -1
+menu-bg
+  rotate: false
+  xy: 603, 47
+  size: 267, 237
+  orig: 267, 237
+  offset: 0, 0
+  index: -1
+fengche1-base
+  rotate: false
+  xy: 803, 762
+  size: 200, 256
+  orig: 200, 256
+  offset: 0, 0
+  index: -1
+fire-aura
+  rotate: false
+  xy: 803, 560
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+dialog-menu
+  rotate: false
+  xy: 872, 71
+  size: 138, 213
+  orig: 138, 213
+  offset: 0, 0
+  index: -1
+x-block-blue
+  rotate: false
+  xy: 803, 542
+  size: 128, 16
+  orig: 128, 16
+  offset: 0, 0
+  index: -1
+x-block-red
+  rotate: false
+  xy: 872, 53
+  size: 128, 16
+  orig: 128, 16
+  offset: 0, 0
+  index: -1
+x-block-yellow
+  rotate: false
+  xy: 872, 35
+  size: 128, 16
+  orig: 128, 16
+  offset: 0, 0
+  index: -1
+menu-menu
+  rotate: false
+  xy: 439, 1
+  size: 166, 42
+  orig: 166, 42
+  offset: 0, 0
+  index: -1
+menu-restart
+  rotate: false
+  xy: 607, 3
+  size: 166, 42
+  orig: 166, 42
+  offset: 0, 0
+  index: -1
+xanim1
+  rotate: false
+  xy: 515, 45
+  size: 64, 32
+  orig: 64, 32
+  offset: 0, 0
+  index: -1
+xanim2
+  rotate: false
+  xy: 775, 13
+  size: 64, 32
+  orig: 64, 32
+  offset: 0, 0
+  index: -1
+x-block
+  rotate: false
+  xy: 841, 17
+  size: 128, 16
+  orig: 128, 16
+  offset: 0, 0
+  index: -1
+level
+  rotate: false
+  xy: 933, 492
+  size: 66, 66
+  orig: 66, 66
+  offset: 0, 0
+  index: -1
+anim1
+  rotate: false
+  xy: 918, 426
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+anim2
+  rotate: false
+  xy: 918, 360
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+anim3
+  rotate: false
+  xy: 918, 294
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+arrow
+  rotate: false
+  xy: 984, 458
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+dot
+  rotate: false
+  xy: 984, 424
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+pet
+  rotate: false
+  xy: 984, 390
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+path
+  rotate: false
+  xy: 581, 61
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+black
+  rotate: false
+  xy: 803, 538
+  size: 2, 2
+  orig: 2, 2
+  offset: 0, 0
+  index: -1
+
+blosics2.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+dialog-bg
+  rotate: false
+  xy: 1, 555
+  size: 535, 457
+  orig: 535, 457
+  offset: 0, 0
+  index: -1
+stone
+  rotate: false
+  xy: 1, 453
+  size: 500, 100
+  orig: 500, 100
+  offset: 0, 0
+  index: -1
+control
+  rotate: false
+  xy: 538, 756
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+fengche1-wheel
+  rotate: false
+  xy: 1, 195
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+morelevels
+  rotate: false
+  xy: 538, 594
+  size: 260, 160
+  orig: 260, 160
+  offset: 0, 0
+  index: -1
+title
+  rotate: false
+  xy: 1, 82
+  size: 384, 111
+  orig: 384, 111
+  offset: 0, 0
+  index: -1
+choose-level
+  rotate: false
+  xy: 1, 2
+  size: 370, 78
+  orig: 370, 78
+  offset: 0, 0
+  index: -1
+dialog-next
+  rotate: false
+  xy: 796, 799
+  size: 138, 213
+  orig: 138, 213
+  offset: 0, 0
+  index: -1
+dialog-restart
+  rotate: false
+  xy: 259, 239
+  size: 138, 212
+  orig: 138, 212
+  offset: 0, 0
+  index: -1
+menu-start
+  rotate: false
+  xy: 259, 195
+  size: 166, 42
+  orig: 166, 42
+  offset: 0, 0
+  index: -1
+npc0001
+  rotate: false
+  xy: 399, 291
+  size: 128, 160
+  orig: 128, 160
+  offset: 0, 0
+  index: -1
+npc00013
+  rotate: false
+  xy: 399, 291
+  size: 128, 160
+  orig: 128, 160
+  offset: 0, 0
+  index: -1
+npc00010
+  rotate: false
+  xy: 800, 637
+  size: 128, 160
+  orig: 128, 160
+  offset: 0, 0
+  index: -1
+block-blue
+  rotate: false
+  xy: 800, 507
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+block-gray
+  rotate: false
+  xy: 538, 464
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+npc00011
+  rotate: false
+  xy: 529, 302
+  size: 128, 160
+  orig: 128, 160
+  offset: 0, 0
+  index: -1
+block-red
+  rotate: false
+  xy: 668, 464
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+npc00012
+  rotate: false
+  xy: 659, 302
+  size: 128, 160
+  orig: 128, 160
+  offset: 0, 0
+  index: -1
+block-yellow
+  rotate: false
+  xy: 798, 377
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+block
+  rotate: false
+  xy: 789, 247
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+bock-red
+  rotate: false
+  xy: 387, 65
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+npc0002
+  rotate: false
+  xy: 529, 140
+  size: 128, 160
+  orig: 128, 160
+  offset: 0, 0
+  index: -1
+npc0003
+  rotate: false
+  xy: 659, 140
+  size: 128, 160
+  orig: 128, 160
+  offset: 0, 0
+  index: -1
+npc0004
+  rotate: false
+  xy: 789, 85
+  size: 128, 160
+  orig: 128, 160
+  offset: 0, 0
+  index: -1
+play
+  rotate: false
+  xy: 517, 10
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+wheel
+  rotate: false
+  xy: 647, 10
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+anim4
+  rotate: false
+  xy: 936, 948
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+anim5
+  rotate: false
+  xy: 936, 882
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+main
+  rotate: false
+  xy: 936, 816
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+back
+  rotate: false
+  xy: 399, 241
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+xanim3
+  rotate: false
+  xy: 449, 257
+  size: 64, 32
+  orig: 64, 32
+  offset: 0, 0
+  index: -1
+xanim4
+  rotate: false
+  xy: 777, 51
+  size: 64, 32
+  orig: 64, 32
+  offset: 0, 0
+  index: -1
+xanim5
+  rotate: false
+  xy: 777, 17
+  size: 64, 32
+  orig: 64, 32
+  offset: 0, 0
+  index: -1
+menu-music-off
+  rotate: false
+  xy: 843, 43
+  size: 49, 40
+  orig: 49, 40
+  offset: 0, 0
+  index: -1
+menu-music-on
+  rotate: false
+  xy: 373, 23
+  size: 49, 40
+  orig: 49, 40
+  offset: 0, 0
+  index: -1
+menu-sound-off
+  rotate: false
+  xy: 424, 23
+  size: 49, 40
+  orig: 49, 40
+  offset: 0, 0
+  index: -1
+menu-sound-on
+  rotate: false
+  xy: 843, 1
+  size: 49, 40
+  orig: 49, 40
+  offset: 0, 0
+  index: -1
+pause
+  rotate: false
+  xy: 936, 774
+  size: 49, 40
+  orig: 49, 40
+  offset: 0, 0
+  index: -1
+
+blosics3.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+npc0005
+  rotate: false
+  xy: 1, 1
+  size: 128, 160
+  orig: 128, 160
+  offset: 0, 0
+  index: -1
+npc0006
+  rotate: false
+  xy: 131, 1
+  size: 128, 160
+  orig: 128, 160
+  offset: 0, 0
+  index: -1
+npc0007
+  rotate: false
+  xy: 261, 1
+  size: 128, 160
+  orig: 128, 160
+  offset: 0, 0
+  index: -1
+npc0008
+  rotate: false
+  xy: 391, 1
+  size: 128, 160
+  orig: 128, 160
+  offset: 0, 0
+  index: -1
+npc0009
+  rotate: false
+  xy: 521, 1
+  size: 128, 160
+  orig: 128, 160
+  offset: 0, 0
+  index: -1
+wind
+  rotate: false
+  xy: 651, 33
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1

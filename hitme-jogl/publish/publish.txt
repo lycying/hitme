@@ -1,0 +1,14 @@
+Shoot the  bricks! Try our interesting physics game now!
+Aim and launch balls from inside the  circle to knock as many blocks off the screen as possible
+☆ HOW TO PLAY 
+* Pull and Shot your ball to the blocks
+* Each  block will give you score
+* Do not shot the mouse , it will sub your score
+* Ground may block you
+* Wind may change your path 
+* Reach the score you will win.
+
+NOTE: This is a demo game now, More levels coming soon.
+NOTE: Once this game completed , I will make it open source also with my awesome physical editor :D
+
+tag: angry birds, Blosics, demolish, physics game, break the bricks
